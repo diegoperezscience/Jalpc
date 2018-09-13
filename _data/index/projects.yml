@@ -1,25 +1,35 @@
-- name: A scalable Grid Computing framework for extensible phylogenetic profile construction
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Udacity Machine Learning Engineer
   i18n: name
-  url: https://www.researchgate.net/publication/307585591_A_Scalable_Grid_Computing_Framework_for_Extensible_Phylogenetic_Profile_Construction
+  gh_user: diegoperezscience
+  repo: Udacity_ML_Eng
+  img: /static/assets/img/landing/UMLEng.png
+  desc: Implementation of the projects for the Machine Learning Engineer Nanodegree at Udacity. These cover interesting projects in supervised, unsupervised, reinforcement and deep learning,  
+
+- name: Sentiment Analysis in Colombian Online Newspaper Comments 
+  i18n: name
+  url: https://link.springer.com/chapter/10.1007/978-3-642-28798-5_16
   img: /static/assets/img/landing/springerLink.png
-  desc: Published by SpringerLink, this paper presents my design and implementation of a distributed framework that can exploit Grid infrastructure resources (EGI) to scale-up common genomics workflows. Achieved a 30x speed-up compared to serial implementations.
+  desc: Published by SpringerLink, this paper presents the development and the results of NOA, a web application intended to detect opinion tendencies, using sentiment analysis and NoSQL.
 
-- name: GPU accerelated Convolutional Neural Networks 
+- name: Xomnia Datathon. Create a Safety Monitor
   i18n: name
-  url: https://gist.github.com/steremma/048549de16cc48610233c943ecf495b4
-  img: /static/assets/img/landing/google.png
-  desc: Designed and implemented a fully functional Convolutional Neural Network library in CUDA, allowing the timely processing of particle physics experimental data. My implementation consistently outperforms the previous CPU version by a factor of 3, as its performance and memory footprint is comparable to those of Keras.
-  
-- name: Natural Language Processing
-  i18n: name
-  gh_user: steremma
-  repo: gensim
-  img: /static/assets/img/landing/gensim.png
-  desc: I have contributed to one of the most popular Python open source packages in Topic Modeling called Gensim. My work includes adding features that made it into a subsequent release, fixing bugs, and improving the documentation of complex model implementations.
+  url: https://youtu.be/ctxGy2k-wt4?list=PLkCF4jlemucm9t8CVbMfk4BkV5t4KkH9i
+  img: /static/assets/img/landing/xomnia.jpg
+  desc: During this hackathon I led a team to create a tool in Shiny using Leaflet to visualize crime in Chicago, inspired on weather maps. In the video I present our five minute pitch, which secured us the second place.
 
-- name: Robotics Simulation
-  i18n: name
-  gh_user: steremma
-  repo: stdr_simulator
-  img: /static/assets/img/landing/stdr.png
-  desc: Integrated a new GUI into a robotics application written in C++ and implemented several design and performance optimizations. The project is currently distributed as an official ROS package.
+#- name: Python
+#  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
+
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
+
