@@ -16,3 +16,10 @@
   repo: gensim
   img: /static/assets/img/landing/gensim.png
   desc: I have contributed to one of the most popular Python open source packages in Topic Modeling called Gensim. My work includes adding features that made it into a subsequent release, fixing bugs, and improving the documentation of complex model implementations.
+
+- name: Robotics Simulation
+  i18n: name
+  gh_user: steremma
+  repo: stdr_simulator
+  img: /static/assets/img/landing/stdr.png
+  desc: Integrated a new GUI into a robotics application written in C++ and implemented several design and performance optimizations. The project is currently distributed as an official ROS package.
