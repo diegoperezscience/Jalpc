@@ -17,7 +17,7 @@
 - name: Xomnia Datathon. Create a Safety Monitor
   i18n: name
   url: https://youtu.be/ctxGy2k-wt4?list=PLkCF4jlemucm9t8CVbMfk4BkV5t4KkH9i
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/xomnia.jpg
   desc: During this hackathon I led a team to create a tool in Shiny using Leaflet to visualize crime in Chicago, inspired on weather maps. In the video I present our five minute pitch, which secured us the second place.
 
 #- name: Python
