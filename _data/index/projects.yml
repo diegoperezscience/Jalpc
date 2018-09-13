@@ -20,13 +20,6 @@
   img: /static/assets/img/landing/xomnia.jpg
   desc: During this hackathon I led a team to create a tool in Shiny using Leaflet to visualize crime in Chicago, inspired on weather maps. In the video I present our five minute pitch, which secured us the second place.
 
-- name: A scalable Grid Computing framework for extensible phylogenetic profile construction
-  i18n: name
-  url: https://www.researchgate.net/publication/307585591_A_Scalable_Grid_Computing_Framework_for_Extensible_Phylogenetic_Profile_Construction
-  img: /static/assets/img/landing/springerLink.png
-  desc: Published by SpringerLink, this paper presents myrastructure resources (EGI) to scale-up common genomics workflows. Achieved a 30x speed-up compared to serial implementations.
-
-
 #- name: Python
 #  i18n: cpython
 #  gh_user: python
@@ -34,9 +27,9 @@
 #  img: /static/assets/img/landing/python.png
 #  desc: This project is other's project. I use another request to get repo's information.
 
-#- name: Google
-#  i18n: google
-#  url: https://google.com
-#  img: /static/assets/img/landing/google.png
-#  desc: This is another project.
+- name: Google
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: This is another project.
 
