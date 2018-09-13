@@ -12,7 +12,7 @@
   i18n: name
   url: https://link.springer.com/chapter/10.1007/978-3-642-28798-5_16
   img: /static/assets/img/landing/springerLink.png
-  desc: Published by SpringerLink, this paper presents the development and the results of NOA, a web application intended to detect opinion tendencies, using sentiment analysis and NoSQL technology.
+  desc: Published by SpringerLink, this paper presents the development and the results of NOA, a web application intended to detect opinion tendencies, using sentiment analysis and NoSQL.
 
 - name: Xomnia Datathon: Create a Safety Monitor
   i18n: name
