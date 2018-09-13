@@ -3,3 +3,10 @@
   url: https://www.researchgate.net/publication/307585591_A_Scalable_Grid_Computing_Framework_for_Extensible_Phylogenetic_Profile_Construction
   img: /static/assets/img/landing/springerLink.png
   desc: Published by SpringerLink, this paper presents my design and implementation of a distributed framework that can exploit Grid infrastructure resources (EGI) to scale-up common genomics workflows. Achieved a 30x speed-up compared to serial implementations.
+
+- name: GPU accerelated Convolutional Neural Networks 
+  i18n: name
+  url: https://gist.github.com/steremma/048549de16cc48610233c943ecf495b4
+  img: /static/assets/img/landing/google.png
+  desc: Designed and implemented a fully functional Convolutional Neural Network library in CUDA, allowing the timely processing of particle physics experimental data. My implementation consistently outperforms the previous CPU version by a factor of 3, as its performance and memory footprint is comparable to those of Keras.
+  
